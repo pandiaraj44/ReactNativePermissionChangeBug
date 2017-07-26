@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativePermissionChangeBug'
+
+include ':app'
